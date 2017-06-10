@@ -1,3 +1,3 @@
 # FileManager
-File Manager from the console !
-NetBeans project !
+File Manager from the console.
+NetBeans project.
